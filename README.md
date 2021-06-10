@@ -1,0 +1,1 @@
+# -Lab-2.3Write-a-program-to-verify-whether-the-number-is-Armstrong-or-not.-import-java.util.Scan
